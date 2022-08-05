@@ -1,0 +1,17 @@
+body{
+    background-color: #fff !important;
+    margin-top: 60px;
+}
+.ui.inverted.top.fixed.menu{
+    background-image: linear-gradient(135deg, #210963d8 0%, #5032d6 69%, #2042b3 100%);
+}
+.ui.card{
+    text-decoration: none;
+    box-shadow: 10px 10px 15px 0px rgba(0,0,0,0.55) !important;
+}
+.folders{
+    text-decoration: none;
+    box-shadow: 10px 10px 15px 0px rgba(0,0,0,0.55) !important;
+    visibility: collapse;
+    height: 0;
+}
